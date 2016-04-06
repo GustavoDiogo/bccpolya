@@ -3,12 +3,12 @@
 
 double raizq(double x)
 {
-        double v1 = 1.0; // Valor base.
+        double v1 = 1.0; // Valor inicial.
         double v2 = 0; // Valor para sobreposição.
         do
         {
                 v2 = v1; 
-                v1 = (v1 + (x/v1))/2; // O novo valor de v1 será esta equação, onde "x" será posteriormente o "n"(input).
+                v1 = (v1 + (x/v1))/2; // O valor de v1 será esta equação, onde "x" será posteriormente o "n"(input).
         } while (abs(v1 - v2) > 0);
         // O programa entrará em loop e ele fará a equação e as sobreposições até que a condição seja falsa/menor que 0.
         // Exemplo: Raiz de 2
