@@ -21,27 +21,27 @@ incluia stdio.h
 
 iníciofunçãoraizq
 
- variáveis 
+     variáveis 
  
-  v1, v2: real
+      v1, v2: real
 
-  v1 = 1.0
+      v1 = 1.0
   
-  v2 = 0.0
+       v2 = 0.0
   
-  faça
+      faça
    
-   v2 = (v1+(x/v1))/2
+         v2 = (v1+(x/v1))/2
               
-   v1= (v2 + (x/v2))/2
+         v1= (v2 + (x/v2))/2
               
-   v2 = (v1+(x/v1))/2
+         v2 = (v1+(x/v1))/2
               
-   v1= (v2 + (x/v2))/2
+          v1= (v2 + (x/v2))/2
               
-   enquanto (abs(v1 - v2) > 0)
+       enquanto (abs(v1 - v2) > 0)
         
-   retorne v1
+       retorne v1
         
 fimfunçãoraizq
 
@@ -52,31 +52,31 @@ função principal: inteiro
 
 iníciofunçãoprincipal
 
-  var 
+      var 
 
-   n: real
+       n: real
 
-   escraval (" Digite um numero: ", n)
+       escraval (" Digite um numero: ", n)
 
-   leia (n);
+       leia (n);
 
-  se (n < 0) nentão
+       se (n < 0) nentão
 
-   escreva("Número inválido")
+        escreva("Número inválido")
   
-  fimse
+        fimse
   
-  então se (n==0)
+        então se (n==0)
 
-   escreva("0")
+         escreva("0")
   
-  fimentãose
+         fimentãose
   
-  senão 
+         senão 
 
-   escreva("A raiz quadrada é,raizq(n))
+          escreva("A raiz quadrada é,raizq(n))
   
-  fimsenão
+          fimsenão
 
 fimfunçãoprincipal
 
