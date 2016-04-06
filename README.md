@@ -15,7 +15,7 @@ v1 = (v2 + (x/v2))/2;
 
 ## Apresentação em Português Estruturado
 
-incluia<stdio.h>
+incluia stdio.h
 
  função raizq: real(real x)
 
