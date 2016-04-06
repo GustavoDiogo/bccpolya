@@ -73,7 +73,9 @@ iníciofunçãoprincipal
 
          ler n
 
-         se n < 0 nentão
+         se n < 0 
+         
+         então
 
             escreva "Número inválido"
   
