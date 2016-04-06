@@ -99,7 +99,7 @@ fimfunçãoprincipal
 
 ## Uso de "Polya" no nome do repositório
 
-O uso de Polya para o nome do repositório, se explica pelo metódo de George Polya para resolver problemas. E esse método é dividir em quatro etapas: 
+O uso de Polya para o nome do repositório, se explica pelo método de George Polya para resolver problemas. Esse método é dividido em quatro etapas: 
 
 >Entenda o problema. 
 
@@ -109,7 +109,7 @@ O uso de Polya para o nome do repositório, se explica pelo metódo de George Po
 
 >Revise tudo.
 
-Esse metódo então, é ideal para a resolução do problema da raiz quadrada.
+Esse método então, é ideal para a resolução do problema da raiz quadrada.
 
 
 
