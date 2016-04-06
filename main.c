@@ -3,26 +3,25 @@
 
 double raizq(double x)
 {
-        double a = 0.0000001; // Valor de aproximação da raiz.
         double v1 = 1.0; // Valor base.
         double v2 = 0; // Valor para sobreposição.
         do
         {
                 v2 = v1; 
                 v1 = (v1 + (x/v1))/2; // O novo valor de v1 será esta equação, onde "x" será posteriormente o "n"(input).
-        } while (abs(v1 - v2) > a);
-        // O programa entrará em loop e ele fará a equação e as sobreposições até que a condição seja menor/falsa que o valor de aproximação.
+        } while (abs(v1 - v2) > 0);
+        // O programa entrará em loop e ele fará a equação e as sobreposições até que a condição seja menor/falsa que 0.
         // Exemplo: Raiz de 2
         // v1=(1+(2/1))/2
         // v1=3/2
         // v1=1,5
         // 1,5-1= 0,5
-        // 0,5>a = TRUE
+        // 0,5>0 = TRUE
         // LOOP com a sobreposição novamente.
         // v1=(1,5+(2/1,5))/2
         // v1=1,41
         // 1,41-1,5 = -0,09
-        // -0,09>a = FALSE
+        // -0,09>0 = FALSE
         // Portanto o valor mais aproximado é 1,5 para raiz de 2.
 
         return v1;
