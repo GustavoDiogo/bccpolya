@@ -9,9 +9,8 @@ Valores iniciais:
 
 v1 = 1 e v2 = 0
 
-f(x) = [v1+(x/v1)]/2
-
-f(x) = v2
+ f(x) = [v1+(x/v1)]/2
+ f(x) = v2
 
 v2 = (v1+(x/v1))/2
 
