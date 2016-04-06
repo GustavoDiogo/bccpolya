@@ -5,16 +5,29 @@ O problema resume-se em fazer uma aproximação da raiz quadrada de um número r
 
 x pertence aos reais tal que y>0
 
+Valores iniciais:
 
-x1 = 1
+v1 = 1 e v2 = 0
 
-f(x) = [x1+(x/x1))/2 = v2 > 
+f(x) = [v1+(x/v1)]/2
+
+f(x) = v2
 
 v2 = (v1+(x/v1))/2;
-v1 = (v2 + (x/v2))/2;
-v2 = (v1+(x/v1))/2;
-v1 = (v2 + (x/v2))/2;
 
+Utiliza o novo valor de v2 em:
+
+v1 = [v2 + (x/v2)]/2;
+
+Utiliza o novo valor de v1 em:
+
+v2 = [v1+(x/v1)]/2;
+
+Utiliza o novo valor de v2 em:
+
+v1 = [v2 + (x/v2)]/2;
+
+v1 = y
 
 ## Apresentação em Português Estruturado
 
