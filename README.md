@@ -7,7 +7,7 @@ x pertence aos reais tal que y>0
 
 Valores iniciais:
 
-v1 = 1 e v2 = 0
+v1 = 1
 
  f(x) = [v1+(x/v1)]/2
  f(x) = v2
