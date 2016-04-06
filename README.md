@@ -94,5 +94,9 @@ iníciofunçãoprincipal
 
 fimfunçãoprincipal
 
+## Apresentação em fluxograma
+
+![Fluxograma](/fluxograma.png)
+
 
 
