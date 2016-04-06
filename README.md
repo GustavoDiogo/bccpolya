@@ -37,7 +37,7 @@ iníciofunçãoraizq
               
          v2 = (v1+(x/v1))/2
               
-          v1= (v2 + (x/v2))/2
+         v1= (v2 + (x/v2))/2
               
        enquanto (abs(v1 - v2) > 0)
         
