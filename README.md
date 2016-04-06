@@ -45,6 +45,9 @@ iníciofunçãoraizq
         
 fimfunçãoraizq
 
+
+
+
 função principal: inteiro
 
 iníciofunçãoprincipal
