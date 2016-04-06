@@ -4,7 +4,7 @@
 double raizq(double x)
 {
         double v1 = 1.0; // Valor inicial.
-        double v2 = 0; // Valor para sobreposição.
+        double v2; // Valor para sobreposição.
         do
         {
                 v2 = (v1+(x/v1))/2;
