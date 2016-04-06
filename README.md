@@ -56,7 +56,7 @@ iníciofunçãoprincipal
 
        n: real
 
-       leia n
+       ler n
 
        se n < 0 nentão
 
