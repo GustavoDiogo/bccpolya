@@ -56,7 +56,7 @@ iníciofunçãoprincipal
 
        n: real
 
-       escraval (" Digite um numero: ", n)
+       escreva(" ", n)
 
        leia (n);
 
