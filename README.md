@@ -1,3 +1,6 @@
+##Descrição do problema:
+O problema resume-se em fazer uma aproximação da raiz quadrada de um número real.Feito em linguagem C, as equações foram baseadas no método de Herão para solucionar o problema.
+
 ## Apresentação em linguagem matemática
 
 x pertence aos reais tal que y>0
