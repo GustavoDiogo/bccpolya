@@ -30,7 +30,7 @@ int main(void)
 {
         double n;
         scanf("%lf", &n);
-        if (n<0) // O programa não consegue calcular raízes negativas, pois a função só será executada (v1-v2)>a for verdadeiro e parará quando (v1-v2)>a for falso, se a função começar com valor negativo, logo a função será falsa e parará de executar.
+        if (n<0) // O programa não consegue calcular raízes negativas, pois a função só será executada (v1-v2)>0 for verdadeiro e parará quando (v1-v2)>0 for falso, se a função começar com valor negativo, logo a função será falsa e parará de executar.
         {
         printf("Impossível calcular número negativo.\n");
         }
