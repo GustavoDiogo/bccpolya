@@ -54,7 +54,7 @@ iníciofunçãoraizq
               
          v1= (v2 + (x/v2))/2
               
-       enquanto (abs(v1 - v2) > 0)
+       enquanto (valor absoluto de(v1 - v2) > 0)
         
        retorne v1
         
