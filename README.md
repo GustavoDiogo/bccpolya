@@ -15,18 +15,18 @@ v1 = (v2 + (x/v2))/2;
 
 ## Apresentação em Português Estruturado
 
-Algoritimo
+incluia<stdio.h>
+
  função raizq: real(real x)
+
+iníciofunçãoraizq
+
+ variáveis 
  
- var 
     v1, v2: real
- 
- 
- início
- 
-{
-          v1 = 1.0
-          
+
+     v1 = 1.0
+     
      v2 = 0.0
      
         faça
@@ -39,28 +39,31 @@ Algoritimo
               
               v1= (v2 + (x/v2))/2
               
-        enquanto (abs(v1 - v2) > 0)
+        }enquanto (abs(v1 - v2) > 0)
+        
+        retorne v1
+        
+fimfunçãoraizq
 
+função principal: inteiro
 
-fimfunção
+iníciofunçãoprincipal
 
 var 
 
-  n: real
+ n: real
 
-inicio 
+   escraval (" Digite um numero: ")
 
-escraval (" Digite um numero: ")
-
-  leia (n);
+   leia (n);
 
 se (n < 0) nentão
 
   escreva("Número inválido")
   
-então se (n==0:)
+então se (n==0)
 
-  escreva("0)
+  escreva("0")
   
 senão 
 
@@ -68,7 +71,7 @@ senão
   
 fimse
 
-fimalgoritimo
+fimfunçãoprincipal
 
 
 
