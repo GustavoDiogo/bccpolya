@@ -13,11 +13,11 @@ f(x) = [v1+(x/v1)]/2
 
 f(x) = v2
 
-v2 = (v1+(x/v1))/2;
+v2 = (v1+(x/v1))/2
 
 Utiliza o novo valor de v2 em:
 
-v1 = [v2 + (x/v2)]/2;
+v1 = [v2 + (x/v2)]/2
 
 Utiliza o novo valor de v1 em:
 
@@ -25,7 +25,7 @@ v2 = [v1+(x/v1)]/2;
 
 Utiliza o novo valor de v2 em:
 
-v1 = [v2 + (x/v2)]/2;
+v1 = [v2 + (x/v2)]/2
 
 v1 = y
 
