@@ -103,11 +103,11 @@ O uso de Polya para o nome do repositório, se explica pelo metódo de George Po
 
 >Entenda o problema. 
 
->Construa uma estratégia de resolução
+>Construa uma estratégia de resolução.
 
->Execute a estratégia
+>Execute a estratégia.
 
->Revise tudo
+>Revise tudo.
 
 Esse metódo então, é ideal para a resolução do problema da raiz quadrada.
 
