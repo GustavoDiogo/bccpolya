@@ -16,12 +16,12 @@ double raizq(double x)
         // v1=3/2
         // v1=1,5
         // 1,5-1= 0,5
-        // 0,5>0 = TRUE
+        // 0,5>0 = VERDADEIRO
         // LOOP com a sobreposição novamente.
         // v1=(1,5+(2/1,5))/2
         // v1=1,41
         // 1,41-1,5 = -0,09
-        // -0,09>0 = FALSE
+        // -0,09>0 = FALSO
         // Portanto o valor mais aproximado é 1,5 para raiz de 2.
 
         return v1;
