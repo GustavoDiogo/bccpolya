@@ -56,23 +56,23 @@ iníciofunçãoprincipal
 
        n: real
 
-       ler n
+         ler n
 
-       se n < 0 nentão
+         se n < 0 nentão
 
-        escreva "Número inválido"
+            escreva "Número inválido"
   
-        fimse
+         fimse
   
-        então se n==0
+         então se n==0
 
-         escreva "0"
+             escreva "0"
   
-         fimentãose
+          fimentãose
   
-         senão 
+          senão 
 
-          escreva "A raiz quadrada é: raizq(n)"
+             escreva "A raiz quadrada é: raizq(n)"
   
           fimsenão
 
