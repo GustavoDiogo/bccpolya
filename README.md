@@ -97,5 +97,16 @@ fimfunçãoprincipal
 
 ![Fluxograma](/FLUXOGRAMA.png)
 
+## Uso de "Polya" no nome do repositório
+
+O uso de Polya para o nome do repositório, se explica pelo metódo de George Polya para resolver problemas. E esse método é dividir em quatro etapas: 
+
+>Entenda o problema. 
+>Construa uma estratégia de resolução
+>Execute a estratégia
+>Revise tudo
+
+Esse metódo então, é ideal para a resolução do problema da raiz quadrada.
+
 
 
