@@ -1,5 +1,8 @@
+## Algoritmos e Programação I: Desafio de George Polya
+#### Bacharelado em Ciências da Computação: 1º Semestre(2016)
+
 ##Descrição do problema:
-O problema resume-se em fazer uma aproximação da raiz quadrada de um número real.Feito em linguagem C, as equações foram baseadas no método de Herão para solucionar o problema.
+O problema resume-se em fazer uma aproximação da raiz quadrada de um número real sem utilizar librarys prontas.Feito em linguagem C, as equações foram baseadas no método de Herão para solucionar o problema.
 
 ## Apresentação em linguagem matemática
 
