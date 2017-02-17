@@ -33,9 +33,7 @@ v1 = y
 
 ## Apresentação em Português Estruturado
 
-incluia stdio.h
-
- função raizq: real(real x)
+função raizq: real(real x)
 
 iníciofunçãoraizq
 
@@ -62,9 +60,6 @@ iníciofunçãoraizq
        retorne v1
         
 fimfunçãoraizq
-
-
-
 
 função principal: inteiro
 
